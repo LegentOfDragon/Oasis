@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",Kanal D (384p)
+https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="ProTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",ProTV HD
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/aMxcDryXs4BCpRuw5yzCiA==,1633526943/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1 tvg-id="Antena1live.ro" tvg-name="Antena 1 Live" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",Antena 1 Live HD
@@ -31,8 +33,6 @@ http://89.38.8.130:39435
 rtmp://gtv1.arya.ro:1935/live/gtv1.flv
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="",Intermedia TV (576p)
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Kanal_D_Romania.png" group-title="General",Kanal D (384p)
-https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Kiss_TV_%282014-present%29.png" group-title="Music",Kiss TV (576p)
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
 #EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uaJQZrv.png" group-title="Sports",LookSport (404p)
