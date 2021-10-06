@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-name="ProTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",ProTV HD
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/aMxcDryXs4BCpRuw5yzCiA==,1633526943/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Antena 1 Live" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",Antena 1 Live HD
+https://live11es.antenaplay.ro/a1/a1_3000k.m3u8?version=1&session=TG7IzO4f2tjXRmxGBBxV&starttime=1633513062&endtime=1633527492&source=web&token=MK6xlOWVlLa8_C3es6WaNqWirj8=
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV (720p)
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-name="Acasa TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k1bTMPT.png" group-title="",Acasa TV
