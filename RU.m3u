@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",Kanal D (384p)
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",Kanal D
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-name="ProTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Lmy7XrC.png" group-title="General",ProTV HD
 https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/aMxcDryXs4BCpRuw5yzCiA==,1633526943/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
